@@ -27,7 +27,7 @@ h2 {
 
 .container>div {
   display: flex;
-  gap: 16px;
+  gap: 26px;
   justify-content: space-between;
   align-items: center;
 }
@@ -87,7 +87,7 @@ textarea:focus {
 }
 
 button {
-  width: 70px;
+  width: 60px;
   height: 50px;
   border-radius: 100px;
   padding: 10px 26px;
@@ -156,4 +156,5 @@ button:hover {
   background: #f1f1f1;
   padding: 10px;
   border-radius: 4px;
+
 } */
